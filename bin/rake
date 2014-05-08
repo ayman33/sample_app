@@ -1,4 +1,4 @@
-#C:\ruby-1.9.3\bin\ruby"
+#C:/ruby-1.9.3/bin/ruby"
 require_relative '../config/boot'
 require 'rake'
 Rake.application.run
